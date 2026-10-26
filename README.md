@@ -1,4 +1,4 @@
-# Hotel_On_ management (HotelPro)
+# Hotel_AK_  (HotelAK)
 > A modern, secure, and luxury-tier Hotel Management System built with the MERN stack.
 
 ![HotelPro Demo](https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80)
@@ -39,11 +39,6 @@
 
 ## Getting Started Locally
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/Gaurang-kumawat3106/Hotel_On_management.git
-cd Hotel_On_management
-```
 
 ### 2. Start the Backend API Server
 ```bash
